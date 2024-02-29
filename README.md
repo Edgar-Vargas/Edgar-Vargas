@@ -6,4 +6,4 @@
 -->
 
 Hello, my name is Edgar and I am a new software developer.
-I am currently learning javascript. I enjoy watching movies/TV shows and working out. 
+I am currently learning javascript. I enjoy watching movies/TV shows and coding on my free time. 
